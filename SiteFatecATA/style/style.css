@@ -1,0 +1,107 @@
+body{
+    
+    width: 100%;
+    height: 1px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 0px;
+}
+
+.banner{
+    margin-left: 0%;
+    position: relative;
+    
+}
+
+.banner img{
+    height: 200px;
+    width: 100%;
+    background-color: blue;
+    position: absolute;
+}
+
+.box_menu{
+    width: 100%;
+}
+
+/*divisoria*/
+
+/*informações das graduações*/
+
+h1{
+    margin-top: 60px;
+    margin-left: 43%;
+}
+
+.info {
+    width: 1200px;
+    margin-left: 109px;
+    display: flex;
+    margin-top: 100px;
+}
+
+.info img{
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.info h3{
+    font-size: 15px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
+
+.info p{
+    font-size: 13px;
+    max-width: 300px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/*button de info*/
+
+.info h6{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 40px;
+    text-align: center;
+    border-radius: 50px;
+    background-color: orange;
+    font-size: 12px;
+    padding: 10px;
+}
+.info h6 a{
+    text-decoration: none;
+    color: #181c33;
+}
+
+/*graduação 1*/
+
+.graduacao1{
+    margin-right: 120px;
+}
+
+/*graduação 2*/
+
+.graduacao2{
+    margin-right: 120px;
+}
+
+.graduacao2 h3{
+    margin-left: 60px;
+}
+
+/*graduação 3*/
+
+.graduacao3 h3{
+    margin-left: 80px;
+}
+
+/*rod*/
+
+.rod{
+    background-color: #181c33;
+    height: 150px;
+}
